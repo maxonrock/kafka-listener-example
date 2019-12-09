@@ -1,7 +1,8 @@
 # Getting Started
 
 ### Config
-Please edit docker-compose.yml and put your actual db connection params in listener service.
+docker-compose.yml is actually configured for first example run
+Note: default topic name is exampleTopic
 
 ### Build jar
 ```
